@@ -28,7 +28,11 @@
 
 #### 🔮 Machine Learning.
 
-#### 📊 Data Visualization
+#### 📊 Data Visualization.
+
+#### Limpeza e Análise de Dados.
+
+#### Storytelling.
 
 ## Me encontre ao redor do mundo 🌎
 
