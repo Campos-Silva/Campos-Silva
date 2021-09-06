@@ -30,8 +30,6 @@
 
 ## Me encontre ao redor do mundo 🌎
 
-#### Linkedin 
-
 [Linkedin](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
 
 ## Meus projetos e artigos em Ciências de Dados 📈📊
