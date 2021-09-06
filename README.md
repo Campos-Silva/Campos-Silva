@@ -1,4 +1,4 @@
-## Olá, eu sou o LUCAS 😎 👋   
+## Olá, eu sou o LUCAS 😎 👋 
 
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/1_foto_de_capa.jpg)
@@ -32,17 +32,17 @@
 
 ####  ⛏️ Limpeza / Mineração / Análise de Dados.
 
-#### 🎥 💬 Storytelling.
+#### 🎥 Storytelling.
 
 ## Me encontre ao redor do mundo 🌎
 
 #### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
 
-#### [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
+#### 📸 [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
 
 #### 📲 [Facebook](https://www.facebook.com/lucas.andreicampossilva)
 
-## Meus projetos e artigos em Ciências de Dados 📈📊
+## Meus projetos e artigos em Ciências de Dados 📈 📊
 
 :1st_place_medal: [Importação e limpeza de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
 
@@ -50,7 +50,7 @@
 
 :3rd_place_medal: [Construção e avaliação de Modelos de Machine Learning no Python](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
 
-## Certificações e Cursos realizados em Ciências de Dados 📝 📚
+## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
 
 #### :eight: ✔️ - [Introdução prática a computação em nuvem usando AWS](https://certificates.digitalinnovation.one/62A827FD) (2021)
 
