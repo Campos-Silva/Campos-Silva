@@ -1,4 +1,4 @@
-## Olá, eu sou o LUCAS 😎 👋 
+## Olá, eu sou o LUCAS :smile: 👋 
 
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/1_foto_de_capa.jpg)
