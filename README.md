@@ -34,19 +34,13 @@
 
 [Linkedin](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
 
-
-
-- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto 01 - Parte A: Importacao e limpeza de dados no Python" que consta no meu repositório do Github ( - clique [aqui](https://github.com/Campos-Silva/Projeto-01-Importacao-e-limpeza-de-dados-no-Python) para acessar a "Parte A" ; Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) para acessar a "Parte C").
-#### Instagram
-#### Blog
-
 ## Meus projetos e artigos em Ciências de Dados 📈📊
 
-My projects
-Churn Model
-Data Visualization
-WebScraping
-TextMining
+[Importação e limpeza de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
+
+[Exploração de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
+
+[Construção e avaliação de Modelos de Machine Learning no Python](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
 
 <!--
 **Campos-Silva/Campos-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
