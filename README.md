@@ -1,7 +1,7 @@
 ## Olá, eu sou o LUCAS 👋
 
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/graficos_projeto_02.jpg)
+![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/69712436_1455217767951195_1553130689006665728_n.jpg)
 
 ## Quem sou eu?
 
