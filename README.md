@@ -1,4 +1,4 @@
-## Olá, eu sou o LUCAS 😎 👋
+## Olá, eu sou o LUCAS 😎 👋   
 
 
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/1_foto_de_capa.jpg)
@@ -44,11 +44,11 @@
 
 ## Meus projetos e artigos em Ciências de Dados 📈📊
 
-[Importação e limpeza de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
+:1st_place_medal: [Importação e limpeza de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
 
-[Exploração de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
+:2nd_place_medal: [Exploração de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
 
-[Construção e avaliação de Modelos de Machine Learning no Python](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+:3rd_place_medal: [Construção e avaliação de Modelos de Machine Learning no Python](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
 
 ## Certificações e Cursos realizados em Ciências de Dados 📈 📝 📚
 
