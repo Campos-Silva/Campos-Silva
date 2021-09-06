@@ -1,6 +1,8 @@
 ## Olá, eu sou o LUCAS 👋
 
 
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/graficos_projeto_02.jpg)
+
 ## Quem sou eu?
 
 #### 👩‍💻 Cientista de dados 🥰.
