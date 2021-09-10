@@ -4,7 +4,6 @@
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/Lucas_palestra__.jpg)
 
 ## Quem sou eu ❔
-
 #### 👩‍💻 Cientista de dados 🥰.
 #### 📚 Pesquisador.
 #### 👩‍🏫 Professor.
@@ -14,7 +13,6 @@
 
 
 ## Habilidades / Skills 👩‍💻
-
 #### 🐍 Python.
 #### 📈 R.
 #### 🗄 SQL.
@@ -24,13 +22,11 @@
 #### 🎥 Storytelling.
 
 ## Me encontre ao redor do mundo 🌎
-
 #### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
 #### 📸 [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
 #### 📲 [Facebook](https://www.facebook.com/lucas.andreicampossilva)
 
 ## Meus projetos e artigos em Ciências de Dados 📈 📊
-
 :1st_place_medal: [Importação e limpeza de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
 
 :2nd_place_medal: [Exploração de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
@@ -38,12 +34,10 @@
 :3rd_place_medal: [Construção e avaliação de Modelos de Machine Learning no Python](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
 
 ## Meu Curriculo
-
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/CV_curriculo_Lucas_Andrei_Campos_Silva.pdf) :student:
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
 
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
-
 #### :eight: ✔️ [Introdução prática a computação em nuvem usando AWS](https://certificates.digitalinnovation.one/62A827FD) (Digital Innovation One®️ 2021)
 
 #### :seven: ✔️ [Projetos ágeis com SCRUM](https://certificates.digitalinnovation.one/777B1EA0) (Digital Innovation One®️ 2021)
