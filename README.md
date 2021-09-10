@@ -52,9 +52,9 @@
 
 ## Meu Curriculo
 
-#### [CV](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+#### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/CV_curriculo_Lucas_Andrei_Campos_Silva.pdf) :student:
 
-#### [Curriculo Lattes](http://lattes.cnpq.br/8819880403976234)
+#### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
 
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
 
