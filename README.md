@@ -6,40 +6,27 @@
 ## Quem sou eu ❔
 
 #### 👩‍💻 Cientista de dados 🥰.
-
 #### 📚 Pesquisador.
-
 #### 👩‍🏫 Professor.
-
 #### 👩‍🎓 Licenciado em Biologia - UFSCar.
-
 #### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar.
-
 #### 🍾 Doutorando em Ecologia e Recursos Naturais - PPGERN/UFSCar.
 
 
 ## Habilidades / Skills 👩‍💻
 
 #### 🐍 Python.
-
 #### 📈 R.
-
 #### 🗄 SQL.
-
 #### 🔮 Machine Learning.
-
 #### 📊 Data Visualization.
-
 ####  ⛏️ Limpeza / Mineração / Análise de Dados.
-
 #### 🎥 Storytelling.
 
 ## Me encontre ao redor do mundo 🌎
 
 #### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
-
 #### 📸 [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
-
 #### 📲 [Facebook](https://www.facebook.com/lucas.andreicampossilva)
 
 ## Meus projetos e artigos em Ciências de Dados 📈 📊
@@ -53,7 +40,6 @@
 ## Meu Curriculo
 
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/CV_curriculo_Lucas_Andrei_Campos_Silva.pdf) :student:
-
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
 
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
