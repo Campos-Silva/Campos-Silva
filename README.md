@@ -50,6 +50,12 @@
 
 :3rd_place_medal: [Construção e avaliação de Modelos de Machine Learning no Python](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
 
+## Meu Curriculo
+
+#### [CV](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+
+#### [Curriculo Lattes](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
 
 #### :eight: ✔️ [Introdução prática a computação em nuvem usando AWS](https://certificates.digitalinnovation.one/62A827FD) (Digital Innovation One®️ 2021)
