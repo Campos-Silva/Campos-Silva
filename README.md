@@ -1,7 +1,7 @@
 ## Olá, eu sou o LUCAS :smile: 👋 
 
 
-![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/1_foto_de_capa.jpg)
+![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/Lucas_palestra_.jpg)
 
 ## Quem sou eu ❔
 
