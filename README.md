@@ -4,22 +4,23 @@
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/Lucas_palestra__.jpg)
 
 ## Quem sou eu ❔
-#### 👩‍💻 Cientista de dados 🥰.
-#### 📚 Pesquisador.
-#### 👩‍🏫 Professor.
-#### 👩‍🎓 Licenciado em Biologia - UFSCar.
-#### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar.
-#### 🍾 Doutorando em Ecologia e Recursos Naturais - PPGERN/UFSCar.
+#### 👩‍💻 Cientista de dados 🥰
+#### 📚 Pesquisador
+#### :microphone: Palestrante
+#### 👩‍🏫 Professor
+#### 👩‍🎓 Licenciado em Biologia - UFSCar
+#### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar
+#### 🍾 Doutorando em Ecologia e Recursos Naturais - PPGERN/UFSCar
 
 
 ## Habilidades / Skills 👩‍💻
-#### 🐍 Python.
-#### 📈 R.
-#### 🗄 SQL.
-#### 🔮 Machine Learning.
-#### 📊 Data Visualization.
-####  ⛏️ Limpeza / Mineração / Análise de Dados.
-#### 🎥 Storytelling.
+#### 🐍 Python
+#### 📈 R
+#### 🗄 SQL
+#### 🔮 Machine Learning
+#### 📊 Data Visualization
+####  ⛏️ Limpeza / Mineração / Análise de Dados
+#### 🎥 Storytelling
 
 ## Me encontre ao redor do mundo 🌎
 #### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
