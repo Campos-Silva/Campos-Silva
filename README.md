@@ -23,9 +23,11 @@
 #### 🎥 Storytelling
 
 ## Me encontre ao redor do mundo 🌎
+#### :email: E-mail: andrei.10@hotmail.com
 #### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
 #### 📸 [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
 #### 📲 [Facebook](https://www.facebook.com/lucas.andreicampossilva)
+
 
 ## Meus projetos e artigos em Ciências de Dados 📈 📊
 :1st_place_medal: [Importação e limpeza de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python)
