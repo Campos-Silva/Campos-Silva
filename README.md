@@ -18,7 +18,7 @@
 #### 📈 R
 #### 🗄 SQL
 #### 🔮 Machine Learning
-#### 📊 Data Visualization
+#### 📊 Data Visualization (Power BI)
 ####  ⛏️ Limpeza / Mineração / Análise de Dados
 #### 🎥 Storytelling
 
