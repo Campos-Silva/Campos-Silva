@@ -30,7 +30,7 @@
 
 
 ## Meus projetos e artigos em Ciências de Dados 📈 📊
-:1st_place_medal: [Precificacao_de_Veículos_Usados](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
+:1st_place_medal: [Precificacao de Veículos Usados](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
 
 :2nd_place_medal: [Exploração de dados no Python](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
 
