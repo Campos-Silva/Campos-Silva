@@ -25,6 +25,7 @@
 ## Me encontre ao redor do mundo 🌎
 #### :email: E-mail: ds.campossilva@gmail.com
 #### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
+#### :dove: [Twitter](https://twitter.com/campossilvabio)
 #### 📸 [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
 #### 📲 [Facebook](https://www.facebook.com/lucas.andreicampossilva)
 
