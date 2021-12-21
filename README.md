@@ -43,6 +43,8 @@
 
 ### Dashboards - Power BI:
 
+:1st_place_medal: [Relatório de Vendas de Carros Usados](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/README.md)
+
 ## Meu Curriculo
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_novo_setembro_2021.pdf) :student:
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
