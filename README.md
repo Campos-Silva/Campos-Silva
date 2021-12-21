@@ -31,7 +31,7 @@
 
 ## Meus projetos e artigos em Ciências de Dados 📈 📊
 
-## Projetos em Python:
+### Projetos em Python:
 
 :1st_place_medal: [Precificacao de Veículos Usados - Introdução](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
 
@@ -40,6 +40,8 @@
 :3rd_place_medal: [Precificacao de Veículos Usados - Parte B: Exploração de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
 
 :3rd_place_medal: [Precificacao de Veículos Usados - Parte C: Construção e avaliação de Modelos de Machine Learning](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+
+### Dashboards - Power BI:
 
 ## Meu Curriculo
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_novo_setembro_2021.pdf) :student:
