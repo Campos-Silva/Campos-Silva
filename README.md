@@ -67,6 +67,12 @@
 
 #### :one: ✔️ [Data Science Methodologies](https://www.credly.com/badges/f9a7aa13-4b00-4f47-98d5-bc0acc280b94) (IBM®️ 2021)
 
+<div align="center">
+  <a href="https://github.com/Campos-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Campos-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos-Silva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 <!--
 **Campos-Silva/Campos-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
