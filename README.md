@@ -32,6 +32,11 @@
 
 ## Meus projetos e artigos em Ciências de Dados 📈 📊
 
+
+### Modelos em Produção:
+
+:1st_place_medal: [Precificacao de Veículos Usados](https://share.streamlit.io/campos-silva/deploy_carros_streamlit/main/deploy_1_carros.py)
+
 ### Projetos em Python:
 
 :1st_place_medal: [Precificacao de Veículos Usados - Introdução](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
