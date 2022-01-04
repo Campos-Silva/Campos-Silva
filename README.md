@@ -23,11 +23,6 @@
 #### 🎥 Storytelling
 
 ## Me encontre ao redor do mundo 🌎
-#### :email: E-mail: ds.campossilva@gmail.com
-#### 💼 [LinkedIn](https://www.linkedin.com/in/lucas-andrei-campos-silva/)
-#### :dove: [Twitter](https://twitter.com/campossilvabio)
-#### 📸 [Instagram](https://www.instagram.com/lucas_andrei_campos_silva/?fbclid=IwAR1U5BN0ol6SIJQvGR4tZxCIpUs9zqg0nO5IBgbbAtfc5hJt7WZC-gR1Qyg)
-#### 📲 [Facebook](https://www.facebook.com/lucas.andreicampossilva)
 
 <div> 
   <a href="https://www.linkedin.com/in/lucas-andrei-campos-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
