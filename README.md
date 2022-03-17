@@ -53,7 +53,9 @@
 
 ### SQL:
 
-:1st_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
+:1st_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
+
+:2st_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
 
 ### Dashboards - Power BI:
 
