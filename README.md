@@ -62,7 +62,7 @@
 :1st_place_medal: [Relatório de Vendas de Carros Usados](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/README.md)
 
 ## Meu Curriculo
-#### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_novo_setembro_2021.pdf) :student:
+#### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_lucas_andrei_campos_silva_cientista_de_dados.pdf) :student:
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
 
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
