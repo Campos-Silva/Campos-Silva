@@ -38,8 +38,19 @@
 </div>
 
 
-## Meus projetos e artigos em Ciências de Dados 📈 📊
+## Meus projetos e artigos na área de Business Intelligence e Ciências de Dados 📈 📊
 
+### Dashboards - Power BI:
+
+:1st_place_medal: [Relatório de Análise de Vendas de Carros Usados](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/README.md)
+
+:2nd_place_medal: [Relatório de Análise de Vendas de uma rede de supermercados](https://github.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados#readme)
+
+### SQL:
+
+:1st_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
+
+:2nd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
 
 ### Modelos em Produção:
 
@@ -54,16 +65,6 @@
 :3rd_place_medal: [Precificacao de Veículos Usados - Parte B: Exploração de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
 
 :3rd_place_medal: [Precificacao de Veículos Usados - Parte C: Construção e avaliação de Modelos de Machine Learning](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
-
-### SQL:
-
-:1st_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
-
-:2nd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
-
-### Dashboards - Power BI:
-
-:1st_place_medal: [Relatório de Vendas de Carros Usados](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/README.md)
 
 ## Meu Curriculo
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_lucas_andrei_campos_silva_cientista_de_dados.pdf) :student:
