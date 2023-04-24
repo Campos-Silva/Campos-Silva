@@ -17,13 +17,14 @@
 
 
 ## Habilidades / Skills 👩‍💻
-#### 🐍 Python
-#### 📈 R
+
+#### :bar_chart: Data Visualization (Power BI)
 #### 🗄 SQL
-#### 🔮 Machine Learning
-#### 📊 Data Visualization (Power BI)
 ####  ⛏️ Limpeza / Mineração / Análise de Dados
 #### 🎥 Storytelling
+#### 🐍 Python
+#### 📈 R
+#### 🔮 Machine Learning
 
 ## Me encontre ao redor do mundo 🌎
 
