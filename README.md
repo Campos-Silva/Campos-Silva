@@ -4,7 +4,10 @@
 ![Alt ou título da imagem](https://github.com/Campos-Silva/Campos-Silva/blob/main/Lucas_palestra__.jpg)
 
 ## Quem sou eu ❔
-#### 👩‍💻 Cientista de dados 🥰
+
+#### 📈 Business Intelligence (BI) 🥰
+#### :loudspeaker: Analista de Dados 
+#### 👩‍💻 Cientista de dados 
 #### 📚 Pesquisador
 #### :microphone: Palestrante
 #### 👩‍🏫 Professor
