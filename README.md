@@ -38,7 +38,7 @@
 </div>
 
 
-## Meus projetos e artigos na área de Business Intelligence e Ciências de Dados 📈 📊
+## Meus projetos na área de Business Intelligence e Ciências de Dados 📈 📊
 
 ### Dashboards - Power BI:
 
