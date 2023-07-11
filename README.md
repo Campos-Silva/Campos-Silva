@@ -11,9 +11,12 @@
 #### 📚 Pesquisador
 #### :microphone: Palestrante
 #### 👩‍🏫 Professor
-#### 👩‍🎓 Licenciado em Biologia - UFSCar
-#### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar
+#### 👩‍💻 Pós-graduando em Business Intelligence e Analytics - FACENS
 #### 🍾 Doutor em Ecologia e Recursos Naturais - PPGERN/UFSCar
+#### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar
+#### 👩‍🎓 Licenciado em Biologia - UFSCar
+
+
 
 
 ## Habilidades / Skills 👩‍💻
