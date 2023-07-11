@@ -52,6 +52,8 @@
 
 ### SQL:
 
+:1st_place_medal: [Checando movimentações bancárias usando SQL](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/tree/main#readme)
+
 :1st_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
 
 :2nd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
