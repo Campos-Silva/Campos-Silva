@@ -95,6 +95,11 @@
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
 
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
+
+<left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/certificados.jpg" width="200"/>
+</left>
+
 #### :eight: ✔️ [Introdução prática a computação em nuvem usando AWS](https://certificates.digitalinnovation.one/62A827FD) (Digital Innovation One®️ 2021)
 
 #### :seven: ✔️ [Projetos ágeis com SCRUM](https://certificates.digitalinnovation.one/777B1EA0) (Digital Innovation One®️ 2021)
