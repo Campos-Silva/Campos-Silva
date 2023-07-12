@@ -86,7 +86,12 @@
 :3rd_place_medal: [Detecção de Fraudadores de Seguro](https://campos-silva-deploy-carros-streamlit-deploy-1-carros-gezywo.streamlit.app/)
 
 ## Meu Curriculo
-#### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_lucas_andrei_campos_silva_cientista_de_dados.pdf) :student:
+
+<left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/cv.png" width="200"/>
+</left>
+
+#### [Curriculum vitae](https://github.com/Campos-Silva/folha_inicial/blob/main/curriculo_lucas_andrei_campos_silva_BI_Analista_de_dados.pdf) :student:
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
 
 ## Certificações e Cursos realizados em Ciências de Dados 👨‍🎓  📝 📚
