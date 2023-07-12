@@ -1,6 +1,5 @@
 ## Olá, eu sou o LUCAS :smile: 👋 
 
-
  <left>
 <img src="https://github.com/Campos-Silva/Campos-Silva/blob/main/Lucas_palestra__.jpg" width="900"/>
 </left>
@@ -17,9 +16,6 @@
 #### 🍾 Doutor em Ecologia e Recursos Naturais - PPGERN/UFSCar
 #### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar
 #### 👩‍🎓 Licenciado em Biologia - UFSCar
-
-
-
 
 ## Habilidades / Skills 👩‍💻
 
@@ -49,7 +45,7 @@
 ### Dashboards - Power BI:
 
  <left>
-<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="300"/>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="600"/>
 </left>
 
 :1st_place_medal: [Relatório de Análise de Vendas de Carros Usados](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/README.md)
