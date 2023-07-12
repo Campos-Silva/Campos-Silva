@@ -54,7 +54,7 @@
 
 ### SQL:
 
- <left>
+<left>
 <img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/sql_1.png" width="300"/>
 </left>
 
@@ -64,11 +64,11 @@
 
 :2nd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
 
-### Modelos em Produção:
+### Python:
 
-:1st_place_medal: [Precificacao de Veículos Usados](https://share.streamlit.io/campos-silva/deploy_carros_streamlit/main/deploy_1_carros.py)
-
-### Projetos em Python:
+<left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/python.png" width="400"/>
+</left>
 
 :1st_place_medal: [Precificacao de Veículos Usados - Introdução](https://github.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados)
 
@@ -77,6 +77,10 @@
 :3rd_place_medal: [Precificacao de Veículos Usados - Parte B: Exploração de Dados](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python)
 
 :3rd_place_medal: [Precificacao de Veículos Usados - Parte C: Construção e avaliação de Modelos de Machine Learning](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python)
+
+### Modelos em Produção:
+
+:1st_place_medal: [Precificacao de Veículos Usados](https://share.streamlit.io/campos-silva/deploy_carros_streamlit/main/deploy_1_carros.py)
 
 ## Meu Curriculo
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_lucas_andrei_campos_silva_cientista_de_dados.pdf) :student:
