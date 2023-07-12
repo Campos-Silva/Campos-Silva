@@ -46,11 +46,19 @@
 
 ### Dashboards - Power BI:
 
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/dashboard.png" width="300"/>
+</left>
+
 :1st_place_medal: [Relatório de Análise de Vendas de Carros Usados](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/README.md)
 
 :2nd_place_medal: [Relatório de Análise de Vendas de uma rede de supermercados](https://github.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados#readme)
 
 ### SQL:
+
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/sql_1.png" width="300"/>
+</left>
 
 :1st_place_medal: [Checando movimentações bancárias usando SQL](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/tree/main#readme)
 
