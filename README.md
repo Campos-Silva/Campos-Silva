@@ -81,6 +81,10 @@
 
 :1st_place_medal: [Precificacao de Veículos Usados](https://share.streamlit.io/campos-silva/deploy_carros_streamlit/main/deploy_1_carros.py)
 
+:2nd_place_medal: [Previsão de Custos de Seguro de Saúde](https://campos-silva-deploy-carros-streamlit-deploy-1-carros-gezywo.streamlit.app/)
+
+:3rd_place_medal: [Detecção de Fraudadores de Seguro](https://campos-silva-deploy-carros-streamlit-deploy-1-carros-gezywo.streamlit.app/)
+
 ## Meu Curriculo
 #### [Curriculum vitae](https://github.com/Campos-Silva/Campos-Silva/blob/main/curriculo_lucas_andrei_campos_silva_cientista_de_dados.pdf) :student:
 #### [Curriculum Lattes](http://lattes.cnpq.br/8819880403976234) 📚
