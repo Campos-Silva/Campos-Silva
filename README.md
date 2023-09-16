@@ -1,31 +1,28 @@
 ## Olá, eu sou o LUCAS :smile: 👋 
 
+
+📈 Business Intelligence | 👩‍🔬 Cientista de Dados | 📚 Pesquisador |
+🎤 Palestrante | 👩‍🏫 Professor | 🎓 Doutor em Ecologia 
+
  <left>
 <img src="https://github.com/Campos-Silva/Campos-Silva/blob/main/Lucas_palestra__.jpg" width="900"/>
 </left>
 
-## Quem sou eu ❔
 
-#### 📈 Business Intelligence (BI) 🥰
-#### :loudspeaker: Analista de Dados 
-#### 👩‍💻 Cientista de dados 
-#### 📚 Pesquisador
-#### :microphone: Palestrante
-#### 👩‍🏫 Professor
-#### 👩‍💻 Pós-graduando em Business Intelligence e Analytics - FACENS
-#### 🍾 Doutor em Ecologia e Recursos Naturais - PPGERN/UFSCar
-#### 🎓 Mestre em Ecologia e Recursos Naturais - PPGERN/UFSCar
-#### 👩‍🎓 Licenciado em Biologia - UFSCar
+Sou apaixonado por transformar dados em insights valiosos. Sou profissional de Business Intelligence e um cientista de dados com um sólido background em Ecologia e Recursos Naturais.
 
-## Habilidades / Skills 👩‍💻
 
-#### :bar_chart: Data Visualization (Power BI)
-#### 🗄 SQL
-####  ⛏️ Limpeza / Mineração / Análise de Dados
-#### 🎥 Storytelling
-#### 🐍 Python
-#### 📈 R
-#### 🔮 Machine Learning
+📊 Tenho experiência em analisar dados complexos, criar visualizações impactantes e comunicar descobertas de forma acessível. Como palestrante e professor, compartilho meu conhecimento e insights com a comunidade.
+
+
+🧪 Minha jornada acadêmica me levou a obter um doutorado e um mestrado em Ecologia pela UFSCar e uma pós-graduação em Business Intelligence e Analytics pela FACENS. Atualmente, busco a interseção entre ciência e tecnologia.
+
+
+💡 Estou sempre em busca de desafios emocionantes e oportunidades de colaboração. Vamos explorar novos horizontes juntos!
+
+
+Conecte-se comigo para discutir dados, ciência e tecnologia. 🌐
+
 
 ## Me encontre ao redor do mundo 🌎
 
