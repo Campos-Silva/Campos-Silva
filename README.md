@@ -54,9 +54,11 @@ Conecte-se comigo para discutir dados, ciência e tecnologia. 🌐
 <img src="https://raw.githubusercontent.com/Campos-Silva/folha_inicial/main/sql_1.png" width="300"/>
 </left>
 
-:1st_place_medal: [Checando movimentações bancárias usando SQL](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/tree/main#readme)
+:1st_place_medal: [Construção e Análise em um Banco de Dados do Zero - Escola de Pilates](https://github.com/Campos-Silva/projeto_escola_de_pilates_sql)
 
-:2nd_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
+:2nd_place_medal: [Checando movimentações bancárias usando SQL](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/tree/main#readme)
+
+:3rd_place_medal: [Explorando dados do Setor de Aluguel de Imóveis usando SQL](https://github.com/Campos-Silva/SQL_scrip_02)
 
 :3rd_place_medal: [Explorando dados do Setor de Vendas usando SQL](https://github.com/Campos-Silva/SQL_script_01_)
 
